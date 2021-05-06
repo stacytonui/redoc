@@ -58,8 +58,8 @@ paths:
           minimum: 1
           description: Parameter description in Markdown.
       responses:
-        200:
-          description: OK
+        201:
+          description: Intern Created
         404:
           description:  not found
     delete:
